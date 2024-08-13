@@ -35,11 +35,11 @@ python password_checker.py
 3.Review the strength assessment and feedback provided.
 
 ## Example
-Enter a password to check its strength: P@ssw0rd123
-Password Strength Assessment:
-Strength: Strong
-Meets Length Requirement: Yes
-Contains Uppercase Letters: Yes
-Contains Lowercase Letters: Yes
-Contains Digits: Yes
-Contains Special Characters: Yes
+- Enter a password to check its strength: P@ssw0rd123
+- Password Strength Assessment:
+- Strength: Strong
+- Meets Length Requirement: Yes
+- Contains Uppercase Letters: Yes
+- Contains Lowercase Letters: Yes
+- Contains Digits: Yes
+- Contains Special Characters: Yes
